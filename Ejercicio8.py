@@ -8,3 +8,4 @@ nombre_title = nombre.title()
 print(nombre_lower)
 print(nombre_upper)
 print(nombre_title)
+#OK

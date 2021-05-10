@@ -1,0 +1,1 @@
+#NOK es pedir un numero por pantalla y aplicar la formula
